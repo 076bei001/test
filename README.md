@@ -1,3 +1,4 @@
+* Github seem to support only up to 2GB files upload even with LFS. so you can get the model from: https://huggingface.co/Nexusflow/Starling-LM-7B-beta
 ---
 license: apache-2.0
 datasets:
